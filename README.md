@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @micki222023F
+- 👋 Hi, I’m @mickiross
 - 👀 I’m interested in using the priciples of industrial and systems engineering such as process imporvement and user design in to computer science.
 - 🌱 I’m currently learning about user centered design, statistics/ probability, and polishing my coding in my free time.
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/mickiross/
