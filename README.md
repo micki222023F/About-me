@@ -6,3 +6,9 @@
 - ⚡ Fun fact: I like to stay active and am pending the semifinals of intramural Pickleball at Virginia Tech
 - Academic experience: C++ and Java
 - Professional experience: SQL
+
+- I learned C++ my first semester freshman year which got me hooked into problem solving with a computer.
+- Then, I started the CS Minor at VT
+- I then picked up SQL at my first Co-op rotation with BMW. I used Oracle SQL Developer as a back-end space to organize and catagorize tables and queries. I also used Oracle Apex which is a full stack tool that is similiar to Power BI's data visualization but with website development.
+- At VT I continue to utlize Java to learn CS principles such as data structures, software design, computer organization, algorithms, and discrete math.
+- I spent my past summer at United Airlines and continued my usage of SQL with Foundry.
